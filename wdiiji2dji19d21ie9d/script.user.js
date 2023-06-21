@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  CHeck
+// @author       cool5785
 // @match        https://www.skillshare.com/*
 // @grant        none
 // ==/UserScript==
